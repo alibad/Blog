@@ -1,6 +1,6 @@
 Visual Studio 2015 Project for a sample OpenGL app that shows you how to draw a circle, oval or arc and explains the math behind it.
 
-![OpenGL Oval]("http://alibad.files.wordpress.com/2010/03/circle.jpg")
+![alt OpenGL Oval]("http://alibad.files.wordpress.com/2010/03/circle.jpg")
 
 More details: 
 
