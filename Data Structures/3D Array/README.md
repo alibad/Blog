@@ -1,0 +1,1 @@
+Code for http://mycodelog.com/2010/05/21/array3d/
