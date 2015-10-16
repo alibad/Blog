@@ -1,0 +1,1 @@
+Code for http://mycodelog.com/2009/12/29/xmlserializer/

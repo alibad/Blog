@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<xsd:schema id="Lib" 
+           targetNamespace="http://schemas.ali.com/lib/" 
+           elementFormDefault="qualified" 
+           xmlns="http://schemas.ali.com/lib/" 
+           xmlns:mstns="http://schemas.ali.com/lib/" 
+           xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+           version="1.0" 
+           attributeFormDefault="unqualified">
+
+  <xsd:element name="Library" type="LibraryType" />
+
+  <xsd:complexType name="LibraryType">
+    <xsd:all>
+      <xsd:element name="Books" type="BooksType" minOccurs="0" maxOccurs="1" />
+      <xsd:element name="Employees" type="EmployeesType" minOccurs="0" maxOccurs="1" />
+    </xsd:all>
+  </xsd:complexType>
+
+  <xsd:complexType name="BooksType">
+    <xsd:sequence minOccurs="0" maxOccurs="unbounded">
+      <xsd:element name="Book" type="BookType" />
+    </xsd:sequence>
+  </xsd:complexType>
+
+  <xsd:complexType name="EmployeesType">
+    <xsd:sequence minOccurs="0" maxOccurs="unbounded">
+      <xsd:element name="Employee" type="EmployeeType" />
+    </xsd:sequence>
+  </xsd:complexType>
+
+  <xsd:complexType name="BookType">
+    <xsd:attribute name="Title" type="xsd:string" use="required" />
+    <xsd:attribute name="Author" type="xsd:string" use="optional" />
+  </xsd:complexType>
+
+  <xsd:complexType name="EmployeeType">
+    <xsd:attribute name="Name" type="xsd:string" use="required" />
+  </xsd:complexType>
+
+</xsd:schema>

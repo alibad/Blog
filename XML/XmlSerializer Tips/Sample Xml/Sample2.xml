@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Library xmlns="http://schemas.ali.com/lib/">
+  <Books>
+    <Book Title="Book 1" Author="Ali"/>
+    <Book Title="Book 2" Author="Sara"/>
+  </Books>
+</Library>
