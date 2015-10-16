@@ -1,0 +1,1 @@
+Source code for http://mycodelog.com/2010/03/27/c-aggregates/
