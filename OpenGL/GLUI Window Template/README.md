@@ -2,5 +2,5 @@ C++ source code that shows how to create your first GLUI window with some basic 
 
 More details: 
 
-* [GLUI Window Template - Summary](http://mycodelog.com/2008/01/25/glui-window-template/)
+* [GLUI Window Template - Summary](http://open-gl.com/2008/01/25/glui-window-template/)
 * [GLUI Window Template - Details](http://www.codeproject.com/Articles/20286/GLUI-Window-Template)

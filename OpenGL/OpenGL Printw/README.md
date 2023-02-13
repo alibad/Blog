@@ -4,5 +4,5 @@ Visual Studio 2015 Project for printw function that significantly simplifies pri
 
 More details: 
 
-* [OpenGL Free GLUT in Visual C++ 2015](http://mycodelog.com/2015/10/08/opengl-freeglut-in-visual-studio-2015/)
-* [OpenGL printw](http://mycodelog.com/2010/03/23/printw/)
+* [OpenGL Free GLUT in Visual C++ 2015](http://open-gl.com/2015/10/08/opengl-freeglut-in-visual-studio-2015/)
+* [OpenGL printw](http://open-gl.com/2010/03/23/printw/)

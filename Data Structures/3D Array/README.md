@@ -1,4 +1,4 @@
-Code for http://mycodelog.com/2010/05/21/array3d/
+Code for http://open-gl.com/2010/05/21/array3d/
 
 <h3>Java 3D Array</h3>
 In Java, creating a 3-dimensional array is as simple as saying: int[][][] array3D = new int[x][y][z]; 

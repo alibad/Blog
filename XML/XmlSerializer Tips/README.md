@@ -1,1 +1,1 @@
-Code for http://mycodelog.com/2009/12/29/xmlserializer/
+Code for http://open-gl.com/2009/12/29/xmlserializer/

@@ -1,1 +1,1 @@
-Blog post for this script: http://mycodelog.com/2010/09/28/sqlsilent/
+Blog post for this script: http://open-gl.com/2010/09/28/sqlsilent/

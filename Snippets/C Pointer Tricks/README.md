@@ -1,1 +1,1 @@
-Source code for http://mycodelog.com/2010/05/20/pointers/
+Source code for http://open-gl.com/2010/05/20/pointers/

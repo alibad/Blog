@@ -10,5 +10,5 @@ Here is a screenshot of what the app looks like.
 
 More details: 
 
-* [OpenGL Free GLUT in Visual C++ 2015](http://mycodelog.com/2015/10/08/opengl-freeglut-in-visual-studio-2015/)
-* [OpenGL Color Interpolation](http://mycodelog.com/2010/05/16/interpolation/)
+* [OpenGL Free GLUT in Visual C++ 2015](http://open-gl.com/2015/10/08/opengl-freeglut-in-visual-studio-2015/)
+* [OpenGL Color Interpolation](http://open-gl.com/2010/05/16/interpolation/)

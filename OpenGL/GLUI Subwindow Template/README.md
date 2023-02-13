@@ -2,5 +2,5 @@ C++ source code that shows how to set up an OpenGL window with controls laid out
 
 More details: 
 
-* [GLUI Subwindow Template - Summary](http://mycodelog.com/2008/01/27/glui-subwindow-template/)
+* [GLUI Subwindow Template - Summary](http://open-gl.com/2008/01/27/glui-subwindow-template/)
 * [GLUI Subwindow Template - Details](http://www.codeproject.com/Articles/20653/GLUI-Subwindow-Template)
